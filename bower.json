@@ -1,0 +1,17 @@
+{
+  "name": "eje1",
+  "authors": [
+    "Angel Valero Archiles <resfriaros@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "scrollmagic": "~2.0.5"
+  }
+}
